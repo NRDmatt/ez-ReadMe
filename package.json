@@ -1,0 +1,15 @@
+{
+  "name": "ez-read.me",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a README.md from a user's input",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mathew Wyatt",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
